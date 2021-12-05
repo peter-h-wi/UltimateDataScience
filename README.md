@@ -6,9 +6,9 @@
 git clone {this url}
 
 * You can see your directories and move to the directory by doing these:
-ls                  --> list stuffs in this directory
-cd {directory name} --> go to the directory           --> eg) cd stor120
-cd ..               --> go to the upper directory
+** ls                  --> list stuffs in this directory
+** cd {directory name} --> go to the directory           --> eg) cd stor120
+** cd ..               --> go to the upper directory
 
 * After cloning it, you should see UltimateDataScience.ipynb file and readme.md file in your directory.
 
