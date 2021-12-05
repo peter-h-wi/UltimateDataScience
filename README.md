@@ -5,10 +5,10 @@
 1. Go to the directory you want to work on in your macbook and clone it using your bash/terminal:
 git clone {this url}
 
-* You can see your directories and move to the directory by doing these:
-** ls                  --> list stuffs in this directory
-** cd {directory name} --> go to the directory           --> eg) cd stor120
-** cd ..               --> go to the upper directory
+* You can see your directories and move to the directory by doing these:\n
+- ls                  --> list stuffs in this directory\n
+- cd {directory name} --> go to the directory           --> eg) cd stor120\n
+- cd ..               --> go to the upper directory\n
 
 * After cloning it, you should see UltimateDataScience.ipynb file and readme.md file in your directory.
 
